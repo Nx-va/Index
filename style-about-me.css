@@ -1,0 +1,70 @@
+html { 
+            font-size: 20px;
+        }
+h1 {
+    font-size: 55px;
+}
+
+body { 
+            background-color: rgba(0, 0, 0, 0.614);
+            color: aqua;
+        }
+
+.intro {
+    color: rgb(255, 255, 48);
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.descript {
+    text-align: center;
+    color: rgb(39, 39, 39);
+}
+
+img {
+    border: 3px solid aqua;
+    width: 200px;
+}
+
+.fb-icon {
+    width: 30px;
+}
+
+.ig-icon {
+    width: 30px;
+}
+
+.dc-icon {
+    width: 30px;
+}
+
+.socials {
+    color: #cca0ff;
+}
+
+hr {
+    color: black;
+}
+
+.copyright {
+    color: whitesmoke;
+}
+
+a {
+            color: aliceblue;
+        }
+
+        a:visited {
+            color: lightgray;
+        }
+
+        a:hover a:active {
+            color: #eee;
+        }
+
+.misc {
+    color: rgb(97, 28, 28);
+}

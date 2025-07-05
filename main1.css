@@ -1,0 +1,79 @@
+html { 
+            font-size: 25px;
+        }
+        body { 
+            background-color: rgba(0, 0, 0, 0.614);
+            color: azure;
+        }
+
+        a {
+            color: aliceblue;
+        }
+
+        a:visited {
+            color: lightgray;
+        }
+
+        a:hover a:active {
+            color: #eee;
+        }
+
+        .web {
+            width: 300px;
+            height: 200px;
+        }
+
+        .vacation {
+            width: 300px;
+            height: 200px;
+        }
+
+.hotel {
+    width: 300px;
+    height: 200px;
+}
+
+.buffet {
+    width: 300px;
+    height: 200px;
+}
+
+.sushi {
+    width: 300px;
+    height: 200px;
+}
+
+.hotdog {
+    width: 300px;
+    height: 200px;
+}
+
+.onion-rings {
+    width: 300px;
+    height: 200px;
+}
+
+.mac-cheese {
+    width: 300px;
+    height: 200px;
+}
+
+.soda {
+    width: 300px;
+    height: 200px;
+}
+
+.burger {
+    width: 300px;
+    height: 200px;
+}
+
+.fries {
+    width: 300px;
+    height: 200px;
+}
+
+.spaghetti {
+    width: 300px;
+    height: 200px;
+}
